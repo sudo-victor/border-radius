@@ -13,7 +13,7 @@ function App() {
             <GlobalStyle />
             <Provider store={store}>
                 <Container className="App">
-                    <Title>Hello World</Title>
+                    <Title>Border-Radius</Title>
                     <Box />
                     <Footer />
                 </Container>

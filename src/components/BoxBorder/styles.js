@@ -10,7 +10,7 @@ export const BorderRadius = styled.div`
 
     background: tomato;
     border: 1px solid #333;
-    box-shadow: 20px 30px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 20px 20px 5px rgba(0, 0, 0, 0.2);
 `;
 
 export const BoxSpan = styled.div`
