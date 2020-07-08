@@ -1,26 +1,31 @@
-# Border-radius Previewer
+<h1 align="center">
+Border Radius
+</h1>
 
-**Tier:** 1-Beginner
+<p align="center">
+CSS Border Radius generator
+</p>
 
-The border-radius property can have multiple values changed. Preview how the shape looks while changing these values.
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
 
-## User Stories
 
-- [x] ~User can see a box which has a `border-radius` property applied to it~
-- [x] ~User can change the 4 `border-radius` values that are applied to the box (top-left, top-right, bottom-left, bottom-right)~
-- [x] ~User can copy the resulting CSS to the clipboard~
+<p align="center">
+    <img src="./assets/snapshot.png" alt="snapshot">
+</p>
 
-## Bonus features
+## Techs
 
-- [ ] User can change all 8 possible values of the border-radius in order to create a complex shape
+- [ReactJS]()
+- [Redux]()
+- [Styled Components]()
 
-## Useful links and resources
+## Getting Started
 
-- [CSS3 Borders](https://www.w3schools.com/css/css3_borders.asp)
-- [Copy to Clipboard](https://www.w3schools.com/howto/howto_js_copy_clipboard.asp)
-
-## Example projects
-
-- [9elements Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
-- [Border Radius](https://border-radius.com/)
-- [CSS Gradient Border](https://codepen.io/thebabydino/pen/zbqPVd)
+- Clone this repository ```git clone ````
+- Open the folder ```cd border-radius````
+- Install the dependencies ```yarn````
+- Start the app ```yarn start```
