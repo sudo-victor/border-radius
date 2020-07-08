@@ -25,7 +25,7 @@ CSS Border Radius generator
 
 ## Getting Started
 
-- Clone this repository ```git clone ````
-- Open the folder ```cd border-radius````
-- Install the dependencies ```yarn````
+- Clone this repository ```git clone ```
+- Open the folder ```cd border-radius```
+- Install the dependencies ```yarn```
 - Start the app ```yarn start```
