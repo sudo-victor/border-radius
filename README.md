@@ -19,9 +19,9 @@ CSS Border Radius generator
 
 ## Techs
 
-- [ReactJS]()
-- [Redux]()
-- [Styled Components]()
+- ⚛[ReactJS](https://github.com/facebook/react)
+- 💾[Redux](https://redux.js.org/introduction/getting-started)
+- 💅🏿[Styled Components](https://styled-components.com/)
 
 ## Getting Started
 
