@@ -20,11 +20,11 @@ export default function Footer() {
                 </li>
                 <li>
                     <a
-                        href="https://www.instagram.com/viktor_souto/"
+                        href="https://www.linkedin.com/in/victor-souto-soares-4811b118a/"
                         rel="noopener noreferrer"
                         target="_blank"
                     >
-                        instagram
+                        linkedin
                     </a>
                 </li>
             </ul>

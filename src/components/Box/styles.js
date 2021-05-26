@@ -13,12 +13,13 @@ export const Container = styled.div`
     grid-template-rows: 1fr 1fr 80px;
 `;
 
-export const Input = styled.input`
-    width: 35px;
-    height: 20px;
+export const Input = styled.input.attrs({
+    type: "number"
+})`
+    width: 55px;
+    height: 40px;
     padding: 5px;
-
-    border: 1px solid #333;
+    color: #191622;
 `;
 
 export const BoxLeft = styled.div`

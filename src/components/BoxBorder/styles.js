@@ -8,8 +8,7 @@ export const BorderRadius = styled.div`
     height: 300px;
     margin: 70px auto;
 
-    background: tomato;
-    border: 1px solid #333;
+    background: #191622;
     box-shadow: 20px 20px 5px rgba(0, 0, 0, 0.2);
 `;
 

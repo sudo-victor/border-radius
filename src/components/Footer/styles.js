@@ -5,8 +5,8 @@ export const Container = styled.div`
     height: 70px;
     margin-top: auto;
 
-    background: tomato;
-    color: #f5f5f5;
+    background: #191622;
+    color: #E1E1E6;
 
     display: flex;
     flex-direction: row;
@@ -14,27 +14,27 @@ export const Container = styled.div`
     align-items: center;
 
     p {
-        color: #f5f5f5;
+        color: #E1E1E6;
     }
 
     p strong {
-        color: #f5f5f5;
+        color: #E1E1E6;
     }
 
     ul {
         display: flex;
         flex-direction: column;
 
-        color: #f5f5f5;
+        color: #E1E1E6;
 
         li {
-            color: #f5f5f5;
+            color: #E1E1E6;
         }
 
         li a {
             text-decoration: none;
 
-            color: #f5f5f5;
+            color: #E1E1E6;
         }
 
         li a:hover {

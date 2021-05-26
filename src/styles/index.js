@@ -7,7 +7,7 @@ export const GlobalStyle = createGlobalStyle`
         box-sizing: border-box;
 
         font-family: 'Roboto', sans-serif;
-        color: #333;
+        color: #E1E1E6;
     }
 `;
 
@@ -15,7 +15,7 @@ export const Container = styled.div`
     width: 100%;
     height: 100vh;
 
-    background: #f9f9f9;
+    background: #41414D;
 
     display: flex;
     flex-direction: column;
